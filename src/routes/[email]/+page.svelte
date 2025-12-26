@@ -7,7 +7,7 @@
 <div class="hero h-screen bg-base-300">
     <div class="hero-content ">
         <div class="max-w-2xl text-center">
-            <h1 class="text-5xl font-bold">{email}'s page</h1>
+            <h1 class=" text-5xl font-bold">{email}'s page</h1>
             <p class="py-3 max-w-md mx-auto">user descp..........</p>
             <div class="grid grid-cols-3">
                 <div class="card bg-slate-700 m-4 shadow-lg shadow-blue-900">
